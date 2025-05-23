@@ -211,7 +211,7 @@ footer{
 
 /**********************************************************/
 
-@media only screen and (max-width: 900px) {
+@media screen and (max-width: 600px) {
    
   nav {
     display: flex;
