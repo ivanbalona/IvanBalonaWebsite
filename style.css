@@ -145,7 +145,7 @@ nav{
     
 }
 .about-me{
- width: 330px;
+ width: 800px;
 }
 
 .about-me h1{
@@ -269,8 +269,9 @@ footer{
     flex-direction: column;
     height: 920px;
     padding: 20px;
-
-
+}
+.about-me{
+ width: 330px;
 }
 .about-me h1{
     font-size: 25px;
