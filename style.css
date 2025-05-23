@@ -267,11 +267,11 @@ footer{
     margin-top: 50px;
     display:flex;
     flex-direction: column;
-    height: 920px;
+    height: 1100px;
     padding: 20px;
 }
 .about-me{
- width: 300px;
+ width: 250px;
 }
 .about-me h1{
     font-size: 25px;
