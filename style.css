@@ -78,12 +78,10 @@ nav{
 /*****home***********/
 
 .home-container{
-   
     display: flex;
     align-items:center;
     justify-content: space-around;
     margin-top: 10%;
-   
    
 }
 .intro-container {
@@ -242,7 +240,15 @@ footer{
     
 }
 /************home page****************/
- .intro-container{
+ 
+.home-container{
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    margin-top: 10%;
+}
+
+.intro-container{
         font-size: 19px;
         margin-left: 10px;
         padding: 0;
